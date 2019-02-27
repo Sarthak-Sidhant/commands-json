@@ -132,5 +132,5 @@ give @p written_book 1 0 {title:"Magic Book",author:"The_Webmage revised by Cawa
 		{text:'Current\\n',color:dark_aqua,clickEvent:{action:run_command,value:'/gamerule keepInventory'}}]}",
     
 "{text:' A creation of /u/The_Webmage.\\nUpdated by /u/Cawabunga \\n2019\\/02\\/26\\nMagic Book v1.4\\nTested on MC 1.12.2\\nWant to check and see if you have the latest version? The \\/give command can be found ',extra:[
-{text:'Here.',color:dark_aqua,clickEvent:{action:open_url,value:'http://github.com/TheWebmage/commands-json/blob/master/Magic%20Book'}}]}"
+{text:'Here.',color:dark_aqua,clickEvent:{action:open_url,value:'https://github.com/awunes/commands-json/blob/master/Magic%20Book'}}]}"
 ]}
